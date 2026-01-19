@@ -1,0 +1,2 @@
+Linux scripting is very powerful
+DevOps automation simplifies tasks
