@@ -12,3 +12,5 @@ node_modules/
 
 # OS / Shell
 .bash_history
+# Java build output
+target/
