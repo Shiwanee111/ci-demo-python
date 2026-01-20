@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.cache/
+.local/
+
+# Node
+node_modules/
+.npm/
+
+# Java / Maven
+.m2/
+
+# OS / Shell
+.bash_history
